@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account-persist>
+	<accounts>
+		<account>
+			<id>n1n123456</id>
+			<name>zhangsan</name>
+			<password>123456</password>
+			<activated>true</activated>
+			<email>777@qq.com</email>
+		</account>
+	</accounts>
+</account-persist>
